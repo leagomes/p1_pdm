@@ -5,7 +5,6 @@ const App = () => {
   return (
     <div>
       <LembreteLista />
-      <LembreteEntrada />
     </div>
   )
 }
