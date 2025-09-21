@@ -1,7 +1,9 @@
+import LembreteEntrada from "./LembreteEntrada"
+
 const App = () => {
   return (
-    <div className="container col-6 row">
-      Hello, Lembretes
+    <div>
+      <LembreteEntrada />
     </div>
   )
 }
